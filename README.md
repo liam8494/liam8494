@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Liam (@liam8494)
 
-<!--
-**liam8494/liam8494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build low-level systems software and CLI tools. Most of my time goes into writing Rust, debugging C with GDB, and figuring out how Linux kernels work under the hood.
 
-Here are some ideas to get you started:
+#### What I'm into right now
+- Hacking on toy WebAssembly runtimes
+- Memory allocators and lock-free data structures in Rust
+- Kernel modules and eBPF tracing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Stack
+- **Languages:** Rust, C, Shell/Bash
+- **Targets/Tech:** Linux, WebAssembly, POSIX
+- **Tools:** Git, Neovim, Cargo, Make, GDB
+
+#### Connect
+- Email: liam8494.dev@proton.me
+- Open an issue on any of my repos if you want to talk low-level code.
